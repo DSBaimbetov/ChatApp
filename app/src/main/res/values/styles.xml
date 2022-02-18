@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="to_do">
+
+        <item name="android:textSize">
+            64sp
+        </item>
+
+        <item name="android:textColor">
+            #D9DC31
+        </item>
+
+    </style>
+</resources>
